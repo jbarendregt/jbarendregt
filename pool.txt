@@ -1,10 +1,11 @@
 maxgputemp 85
 stratumproxy enabled
-proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
+proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
 proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 
-globalfan 85
+globalfan 80
 flg 5d0f0f --cl-global-work 16384 --farm-recheck 200
 pwr 5d0f0f 4
 driver 5d0f0f amdgpu
+mem 5d0f0f 10
