@@ -1,6 +1,6 @@
 maxgputemp 85
 stratumproxy enabled
-proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
+proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.HOME01
 proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 
