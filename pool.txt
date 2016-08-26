@@ -12,4 +12,4 @@ pwr 5d0f0f 3 3 3 3 3
 driver 5d0f0f amdgpu
 mem 5d0f0f 0 0 0 0 0
 
-reb 5d0f0f 93
+reb 5d0f0f 94
