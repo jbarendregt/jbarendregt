@@ -3,9 +3,12 @@ stratumproxy enabled
 proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.HOME01
 proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
+autoreboot false
 
 globalfan 75
 flg 5d0f0f --cl-global-work 16384 --farm-recheck 200
 pwr 5d0f0f 3 3 3 3 3
 driver 5d0f0f amdgpu
 mem 5d0f0f 0 0 0 0 0
+
+reb 5d0f0f 93
