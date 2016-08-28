@@ -8,7 +8,7 @@ custompanel jbeth000
 
 globalfan 85
 flg 5d0f0f --cl-global-work 16384 --farm-recheck 200
-#pwr 5d0f0f 3 3 3 3 3
+pwr 5d0f0f 3
 driver 5d0f0f amdgpu
 #mem 5d0f0f 0 0 0 0 0
 
