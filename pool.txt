@@ -6,10 +6,10 @@ proxypool2 us1.ethermine.org:4444
 autoreboot false
 custompanel jbeth000
 
-globalfan 70
+globalfan 85
 flg 5d0f0f --cl-global-work 16384 --farm-recheck 200
-pwr 5d0f0f 3 3 3 3 3
+#pwr 5d0f0f 3 3 3 3 3
 driver 5d0f0f amdgpu
-mem 5d0f0f 0 0 0 0 0
+#mem 5d0f0f 0 0 0 0 0
 
 reb 5d0f0f 94
