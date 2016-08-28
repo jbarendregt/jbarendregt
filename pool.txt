@@ -10,6 +10,6 @@ globalfan 70
 flg 5d0f0f --cl-global-work 16384 --farm-recheck 200
 pwr 5d0f0f 3 3
 driver 5d0f0f amdgpu
-#mem 5d0f0f 0 0 0 0 0
+mem 5d0f0f 5 5
 
 reb 5d0f0f 94
