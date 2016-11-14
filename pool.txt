@@ -4,12 +4,20 @@ proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.HOME01
 proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 autoreboot false
+
+globaldriver amdgpu
+globalminer claymore
+stratumproxy enabled
+
+flags --farm-recheck 200
+globalcore 1000
+globalmem 1250
+globalpowertune 20
 custompanel jbeth000
+lockscreen enabled
+
 
 globalfan 70
-flg 5d0f0f --cl-global-work 16384 --farm-recheck 200
-pwr 5d0f0f 3
-driver 5d0f0f amdgpu
-mem 5d0f0f 0
+
 
 reb 5d0f0f 94
