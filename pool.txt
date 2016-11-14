@@ -9,7 +9,7 @@ globaldriver amdgpu
 globalminer claymore
 stratumproxy enabled
 
-flags --cl-global-work 16384 --farm-recheck 200
+flags --cl-global-work 16384 --farm-recheck 200 -allpools 1
 globalcore 1000
 globalmem 1250
 globalpowertune 4
