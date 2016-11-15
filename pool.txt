@@ -6,7 +6,13 @@ proxypool1 eu1.ethermine.org:4444
 proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
-miner 5d0f0f ethminer
+miner 5d0f0f zcash-miner
+
+zcash-miner=proxypool1 eu1-zcash.flypool.org:3333                                                
+zcash-miner=proxypool2 us1-zcash.flypool.org:3333
+zcash-miner=proxywallet t1UArttKqrQ82PRjZpsWpuuk8ZbGhsFZPQG.home1
+zcash-miner=poolpass1 x
+zcash-miner=poolpass2 x
 
 fan 113-2E3470U.X51 70
 mem 113-2E3470U.X51 2050
