@@ -6,5 +6,5 @@ proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
 globalfan 85
 globaldriver amdgpu
-globalmem 2100
-#globalpowertune 4
+globalmem 2250
+globalpowertune 4
