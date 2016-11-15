@@ -14,12 +14,12 @@ miner 5d0f0f ethminer
 #claymore=poolpass1 x
 #claymore=poolpass2 x
 
-fan 113-2E3470U.X51 90
+fan 113-2E3470U.X51 60
 #mem 113-2E3470U.X51 2000
 #cor 113-2E3470U.X51 950
 #pwr 113-2E3470U.X51 4
 
-fan 113-2E3470U.X5R 90
+fan 113-2E3470U.X5R 60
 #mem 113-2E3470U.X5R 2000
 #cor 113-2E3470U.X5R 950
 #pwr 113-2E3470U.X5R 4
