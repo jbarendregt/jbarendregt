@@ -1,4 +1,4 @@
-maxgputemp 85
+maxgputemp 80
 stratumproxy enabled
 custompanel jbeth0442366
 proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
@@ -14,12 +14,18 @@ miner 5d0f0f ethminer
 #claymore=poolpass1 x
 #claymore=poolpass2 x
 
-fan 113-2E3470U.X51 60
+#fan 113-2E3470U.X51 60
 #mem 113-2E3470U.X51 2000
 #cor 113-2E3470U.X51 950
 #pwr 113-2E3470U.X51 4
 
-fan 113-2E3470U.X5R 60
+#fan 113-2E3470U.X5R 60
 #mem 113-2E3470U.X5R 2000
 #cor 113-2E3470U.X5R 950
 #pwr 113-2E3470U.X5R 4
+
+#rx470
+#fan 113-1E3470U.O4W 60
+#mem 113-1E3470U.O4W 2000
+#cor 113-1E3470U.O4W 950
+#pwr 113-1E3470U.O4W 4
