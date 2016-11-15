@@ -5,7 +5,7 @@ proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 autoreboot false
 
-globaldriver amdgpu
+globaldriver fglrx
 globalminer ethminer
 stratumproxy enabled
 
