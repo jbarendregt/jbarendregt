@@ -1,20 +1,20 @@
 maxgputemp 85
 stratumproxy enabled
 custompanel jbeth0442366
-#proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
-#proxypool1 eu1.ethermine.org:4444
-#proxypool2 eu2.ethermine.org:4444
+proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
+proxypool1 eu1.ethermine.org:4444
+proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
-miner 5d0f0f claymore
+miner 5d0f0f ethminer
 
-claymore=proxypool1 eu2.ethermine.org:4444                                                
-claymore=proxypool2 eu1.ethermine.org:4444
-claymore=proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
-claymore=poolpass1 x
-claymore=poolpass2 x
+#claymore=proxypool1 eu2.ethermine.org:4444                                                
+#claymore=proxypool2 eu1.ethermine.org:4444
+#claymore=proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
+#claymore=poolpass1 x
+#claymore=poolpass2 x
 
-fan 113-2E3470U.X51 70
+fan 113-2E3470U.X51 60
 mem 113-2E3470U.X51 2050
 cor 113-2E3470U.X51 950
 pwr 113-2E3470U.X51 3
