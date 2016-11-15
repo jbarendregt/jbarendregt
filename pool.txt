@@ -6,10 +6,10 @@ proxypool1 eu1.ethermine.org:4444
 proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200 --allpools 1
 driver 5d0f0f amdgpu
-miner 5d0f0f claymore
+miner 5d0f0f ethminer
 
 fan 113-2E3470U.X51 90
-mem 113-2E3470U.X51 2070
-pwr 113-2E3470U.X51 4
+mem 113-2E3470U.X51 1900
+pwr 113-2E3470U.X51 3
 
 
