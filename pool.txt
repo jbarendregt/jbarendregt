@@ -9,8 +9,8 @@ driver 5d0f0f amdgpu
 miner 5d0f0f ethminer
 
 fan 113-2E3470U.X51 90
-mem 113-2E3470U.X51 1900
-cor 113-2E3470U.X51 1000
+mem 113-2E3470U.X51 2000
+cor 113-2E3470U.X51 950
 pwr 113-2E3470U.X51 3
 
 
