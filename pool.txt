@@ -1,12 +1,14 @@
 maxgputemp 85
 stratumproxy enabled
+custompanel jbeth0442366
 proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
 proxypool1 eu1.ethermine.org:4444
 proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 60
 driver 5d0f0f amdgpu
-custompanel jbeth0442366
-#globaldriver amdgpu
-#globalmem 2100
-#globalpowertune 4
+
+fan 113-2E3470U.X51 90
+mem 113-2E3470U.X51 2070
+pwr 113-2E3470U.X51 4
+
+
