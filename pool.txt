@@ -8,7 +8,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
 miner 5d0f0f claymore
 
-claymore=proxypool1 pool-eu.ethosdistro.com                                              
+claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
 #claymore=proxypool2 eu1.ethermine.org:4444
 claymore=proxywallet h
 claymore=poolpass1 x
