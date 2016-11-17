@@ -6,26 +6,26 @@ proxypool1 pool-eu.ethosdistro.com:5001
 #proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
-miner 5d0f0f claymore
+miner 5d0f0f ethminer
 
-claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
+#claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
 #claymore=proxypool2 eu1.ethermine.org:4444
-claymore=proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
-claymore=poolpass1 x
-claymore=poolpass2 x
+#claymore=proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
+#claymore=poolpass1 x
+#claymore=poolpass2 x
 
-fan 113-2E3470U.X51 40
-#mem 113-2E3470U.X51 2000
+fan 113-2E3470U.X51 60
+#mem 113-2E3470U.X51 2080
 #cor 113-2E3470U.X51 950
 #pwr 113-2E3470U.X51 4
 
-fan 113-2E3470U.X5R 40
-#mem 113-2E3470U.X5R 2000
+fan 113-2E3470U.X5R 60
+#mem 113-2E3470U.X5R 2080
 #cor 113-2E3470U.X5R 950
 #pwr 113-2E3470U.X5R 4
 
 #rx470
-fan 113-1E3470U.O4W 40
-#mem 113-1E3470U.O4W 2000
+fan 113-1E3470U.O4W 60
+#mem 113-1E3470U.O4W 2080
 #cor 113-1E3470U.O4W 950
 #pwr 113-1E3470U.O4W 4
