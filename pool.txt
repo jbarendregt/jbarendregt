@@ -1,7 +1,7 @@
 maxgputemp 80
 stratumproxy enabled
 custompanel jbeth0442366
-proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F
+proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
 proxypool1 pool-eu.ethosdistro.com:5001
 #proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
@@ -10,7 +10,7 @@ miner 5d0f0f claymore
 
 claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
 #claymore=proxypool2 eu1.ethermine.org:4444
-claymore=proxywallet h
+claymore=proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
 claymore=poolpass1 x
 claymore=poolpass2 x
 
