@@ -7,7 +7,6 @@ proxypool1 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
 miner 5d0f0f claymore
-fan 5d0f0f 90
 
 
 #claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
@@ -39,3 +38,4 @@ fan 113-2E3470U.S52 90
 pwr 113-2E3470U.S52 7
 mem 113-2E3470U.S52 2150
 cor 113-2E3470U.S52 1150
+fan 113-2E3470U.S52 50
