@@ -2,7 +2,7 @@ maxgputemp 80
 stratumproxy enabled
 custompanel jbeth0442366
 proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
-proxypool1 pool-eu.ethosdistro.com:5001
+proxypool1 Pool.Alpereum.ch:3001
 #proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
