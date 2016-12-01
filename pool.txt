@@ -7,6 +7,7 @@ proxypool1 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
 miner 5d0f0f claymore
+autoreboot 3
 
 
 #claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
