@@ -4,7 +4,7 @@ custompanel jbeth0442366
 proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
 proxypool1 Pool.Alpereum.ch:3001
 #proxypool2 eu2.ethermine.org:4444
-flags --cl-global-work 8192 --farm-recheck 200
+# flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
 miner 5d0f0f claymore
 autoreboot 3
@@ -17,19 +17,19 @@ autoreboot 3
 #claymore=poolpass2 x
 
 #rma gpu
-fan 113-2E3470U.X51 35
+fan 113-2E3470U.X51 50
 #mem 113-2E3470U.X51 2080
 #cor 113-2E3470U.X51 950
 #pwr 113-2E3470U.X51 4
 
 #rx480 (oude 480)
-fan 113-2E3470U.X5R 40
+fan 113-2E3470U.X5R 50
 #	mem 113-2E3470U.X5R 2000
 cor 113-2E3470U.X5R 1150
 #pwr 113-2E3470U.X5R 5
 
 #rx470
-fan 113-1E3470U.O4W 40
+fan 113-1E3470U.O4W 50
 mem 113-1E3470U.O4W 2100
 cor 113-1E3470U.O4W 1050
 #pwr 113-1E3470U.O4W 5
@@ -38,4 +38,4 @@ cor 113-1E3470U.O4W 1050
 #pwr 113-2E3470U.S52 7
 mem 113-2E3470U.S52 2150
 cor 113-2E3470U.S52 1150
-fan 113-2E3470U.S52 40
+fan 113-2E3470U.S52 50
