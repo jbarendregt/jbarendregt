@@ -1,16 +1,16 @@
 maxgputemp 80
 stratumproxy enabled
 custompanel jbeth0442366
-proxywallet t1Ny4WBvCzVEbZiwjbAC64CAqiDhS8fR49D.home01
-proxypool1 eu1-zcash.flypool.org:3333
-#proxypool2 us1-zcash.flypool.org:3333
+proxywallet 0x7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
+proxypool1 Pool.Alpereum.ch:3001
+#proxypool2 USA.Alpereum.ch:3001
 # flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
-miner 5d0f0f claymore-zcash
+miner 5d0f0f claymore
 autoreboot 3
 
 
-#claymore=proxypool1 pool-eu.ethosdistro.com:5001                                           
+#claymore=proxypool1 pool-eu.ethosdistro.com:5001
 #claymore=proxypool2 eu1.ethermine.org:4444
 #claymore=proxywallet 7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
 #claymore=poolpass1 x
