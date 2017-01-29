@@ -1,12 +1,12 @@
 maxgputemp 80
 stratumproxy enabled
 custompanel jbeth0442366
-proxywallet 0x7c66f7196f0e82a30b745eE9351A496f4EEd788F.home01
-proxypool1 Pool.Alpereum.ch:3001
-#proxypool2 USA.Alpereum.ch:3001
+proxywallet 424srDbPw4u6eQtsWGgVMd77C5PJwev3HSdNCiqxu9d1Zs1SMwKZTy1fgJn1abmxuCTPknHjJtAZeLAzvTXefAag4HF7WgX
+proxypool1 mine.moneropool.com:3333
+proxypool2 mine.moneropool.com:3334
 # flags --cl-global-work 8192 --farm-recheck 200
 driver 5d0f0f amdgpu
-miner 5d0f0f claymore
+miner 5d0f0f sgminer-gm-xmr
 autoreboot 3
 
 
