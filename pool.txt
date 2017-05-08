@@ -7,7 +7,11 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 globalminer claymore
 custompanel monmonethdao
-globalpowertune 5
+globalpowertune 7
+
+mem 113-1E3470U.O60 2150
+mem 113-1E3470U.S61 2150
+
 
 # ethOS Pool: ethosdistro.com/pool
 #
