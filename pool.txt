@@ -11,6 +11,7 @@ globalpowertune 7
 
 mem 113-1E3470U.O60 2100
 mem 113-1E3470U.S61 2100
+mem 5d0f0f 2100 2100 1650 2050 1650 2100
 
 
 # ethOS Pool: ethosdistro.com/pool
