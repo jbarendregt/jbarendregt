@@ -1,6 +1,6 @@
 maxgputemp 85
 stratumproxy enabled
-proxywallet 0x7c66f7196f0e82a30b745eE9351A496f4EEd788F
+proxywallet 0x506F4544a456F14ce882Be1CCBe0ACF237d92F63
 proxypool1 pool-eu.ethosdistro.com:5001
 proxypool2 pool-usa.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
