@@ -8,7 +8,7 @@ globalfan 85
 globalminer claymore
 custompanel monmonethdao
 globalpowertune 5
-autoreboot 4
+autoreboot 2
 
 # mem 113-1E3470U.O60 2100
 # mem 113-1E3470U.S61 2100
