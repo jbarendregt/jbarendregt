@@ -5,7 +5,7 @@ proxypool1 eu1.ethermine.org:4444
 proxypool2 eu1.ethermine.org:14444
 # flags --cl-global-work 8192 --farm-recheck 200
 globalfan 90
-globalminer claymore
+globalminer ethminer
 custompanel monmonethdao
 globalpowertune 5
 autoreboot 3
