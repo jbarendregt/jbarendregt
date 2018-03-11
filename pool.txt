@@ -17,7 +17,7 @@ autoreboot 3
 
 # globalcore 1000
 
-reb 5d0f0f 14
+reb 5d0f0f 1
 
 
 
