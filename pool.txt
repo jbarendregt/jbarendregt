@@ -20,7 +20,6 @@ autoreboot 10
 reb 5d0f0f 9
 
 
-
 # ethOS Pool: ethosdistro.com/pool
 #
 # QUICK START GUIDE: ethosdistro.com/kb/#quick-start-guide
